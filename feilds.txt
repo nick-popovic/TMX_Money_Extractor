@@ -1,0 +1,19 @@
+Open
+Day High/Low
+52 Week High/Low
+Close
+Prev. Close
+Volume
+Consolidated Volume
+Market Cap
+Market Cap (All Classes)
+Listed Shares Out
+Total Shares (All Classes)
+EPS (TTM)
+P/E Ratio (TTM)
+Dividend
+Dividend Frequency
+Dividend Yield (Ann)
+Exp. Dividend Date
+Short Interest as % of Float
+Short Interest Days to Cover
